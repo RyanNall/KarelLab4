@@ -1,8 +1,6 @@
 #BlueJ class context
 comment0.target=Problem2
 comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
-comment1.params=st\ av\ dir\ numBeepers
-comment1.target=Problem2(int,\ int,\ Direction,\ int)
-comment2.params=
-comment2.target=void\ plantBeepers()
-numComments=3
+comment1.params=
+comment1.target=void\ plantBeepers()
+numComments=2

@@ -1,8 +1,6 @@
 #BlueJ class context
 comment0.target=BeeperBot
 comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
-comment1.params=st\ av\ dir\ numBeepers
-comment1.target=BeeperBot(int,\ int,\ Direction,\ int)
-comment2.params=
-comment2.target=void\ runRace()
-numComments=3
+comment1.params=
+comment1.target=void\ runRace()
+numComments=2

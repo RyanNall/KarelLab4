@@ -1,8 +1,14 @@
 #BlueJ class context
 comment0.target=Problem3
 comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
-comment1.params=st\ av\ dir\ numBeepers
-comment1.target=Problem3(int,\ int,\ Direction,\ int)
+comment1.params=
+comment1.target=void\ closeAllWindows()
 comment2.params=
-comment2.target=void\ closeAllWindows()
-numComments=3
+comment2.target=void\ goToWall()
+comment3.params=
+comment3.target=void\ faceNorth()
+comment4.params=
+comment4.target=void\ fixWall()
+comment5.params=
+comment5.target=void\ turnRight()
+numComments=6
